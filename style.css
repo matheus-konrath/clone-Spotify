@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#navbar {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.6);
+  justify-content: center;
+}
